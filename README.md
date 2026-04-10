@@ -6,7 +6,7 @@ Analyzes retail transaction data to uncover insights on customer behavior, promo
 ## Installation
 
 ```bash
-cd c:\Users\310275285\retail-transaction-insights
+
 pip install -r requirements.txt
 ```
 
